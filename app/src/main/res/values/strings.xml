@@ -12,4 +12,11 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="welcome_to_emotio">Welcome To EMOTIO</string>
     <string name="hello">HELLO!!!</string>
+    <string name="preferred_age_group">Preferred Age Group</string>
+    <string name="auto_play_video">Auto Play Video</string>
+    <string name="view_learned_history">View Learned History</string>
+    <string name="check_for_update">Check For Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
 </resources>
